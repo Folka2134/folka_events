@@ -15,7 +15,7 @@ const Footer = () => {
           />
         </Link>
 
-        <p>2023 Folka Events</p>
+        <p>2023 Folka Events. All Rights reserved</p>
       </div>
     </footer>
   );
